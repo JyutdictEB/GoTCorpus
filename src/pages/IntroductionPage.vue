@@ -16,7 +16,6 @@
 </template>
 
 <script lang="ts">
-import { Todo, Meta } from 'components/models';
 import { defineComponent, ref } from 'vue';
 import introductionJsonData from 'assets/introduction.json';
 

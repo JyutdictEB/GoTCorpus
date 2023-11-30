@@ -9,9 +9,9 @@ const routes: RouteRecordRaw[] = [
       { path: 'introduction', component: () => import('pages/IntroductionPage.vue') },
       { path: 'phoneme_description', component: () => import('pages/PhonemeDescriptionPage.vue') },
       { path: 'vocabulary', component: () => import('pages/VocabularyPage.vue') },
-      { path: 'sentences', component: () => import('pages/SentencesPage.vue') },
-      { path: 'idioms', component: () => import('pages/IdiomsPage.vue') },
-      { path: 'about', component: () => import('pages/AboutPage.vue') },
+      // { path: 'sentences', component: () => import('pages/SentencesPage.vue') },
+      // { path: 'idioms', component: () => import('pages/IdiomsPage.vue') },
+      // { path: 'about', component: () => import('pages/AboutPage.vue') },
     ],
   },
 

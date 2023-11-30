@@ -16,7 +16,6 @@
 </template>
 
 <script lang="ts">
-import { Todo, Meta } from 'components/models';
 import { defineComponent, ref } from 'vue';
 import vocabularyJsonData from 'assets/vocabulary.json';
 
