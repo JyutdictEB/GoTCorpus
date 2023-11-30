@@ -1,0 +1,772 @@
+[
+    {
+        "Index": "1",
+        "Original Page": "11",
+        "Presumptions": "\u9670\u53bb33",
+        "Spellings": "a",
+        "Descriptions": "Le ton moyen, qu'on prononce dans le ton ordinaire de la voix, ne se represente par aucunsigne.",
+        "Machine Translation": "\u4e2d\u8072\u8abf\u4ee5\u666e\u901a\u8072\u8abf\u767c\u97f3\uff0c\u6c92\u6709\u4efb\u4f55\u7b26\u865f\u8868\u793a\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u918b xu\n\u6015 pha"
+    },
+    {
+        "Index": "2",
+        "Original Page": "12",
+        "Presumptions": "\u9670\u5e7345",
+        "Spellings": "\u00e1",
+        "Descriptions": "Le ton sup\u00e9rieur, plus \u00e9lev\u00e9 que le ton moyen, se repr\u00e9sente par l'accent aigu.",
+        "Machine Translation": "\u4e0a\u8072\u6bd4\u4e2d\u8072\u9ad8\uff0c\u7528\u92b3\u89d2\u91cd\u97f3\u8868\u793a\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u8caa th\u00e1m\n\u8857 c\u00e1i\n\u9dc4 c\u00e1y\n\u8c6c ch\u00ed\n\u97ad p\u00edn"
+    },
+    {
+        "Index": "3",
+        "Original Page": "",
+        "Presumptions": "\u967d\u5e73\u53bb22",
+        "Spellings": "\u00e0",
+        "Descriptions": "Le ton inf\u00e9rieur, plus bas que le ton moyen, se repr\u00e9sente par un accent grave.",
+        "Machine Translation": "\u4f4e\u97f3\u6bd4\u4e2d\u97f3\u4f4e\uff0c\u7528\u91cd\u97f3\u8868\u793a\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u5927 ta\u00ec\n\u96e3 n\u00e0n\n\u9e7d g\u00ecm\n\u6613 g\u00ec"
+    },
+    {
+        "Index": "4",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Les trois tons compos\u00e9s sont ainsi d\u00e9nomm\u00e9s parce qu'ils tiennent des trois premiers.",
+        "Machine Translation": "\u4e09\u500b\u8907\u5408\u8072\u8abf\u4e4b\u6240\u4ee5\u53eb\u8907\u5408\u8072\u8abf\uff0c\u662f\u56e0\u7232\u5b83\u5011\u662f\u5f9e\u524d\u4e09\u500b\u8072\u8abf\u6d3e\u751f\u51fa\u4f86\u7684\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "5",
+        "Original Page": "",
+        "Presumptions": "214",
+        "Spellings": "\u00e3",
+        "Descriptions": "Le ton ascendant sup\u00e9rieur ou tombant. Il se prononce en partant du ton moyen pour s'\u00e9lever jusqu'au ton sup\u00e9rieur brusquement et en tombant, comme on jette le mot: tiens, pour exprimer la surprise, par exemple. Ce ton est tr\u00e8s peu employ\u00e9; il se repr\u00e9sente par le signe interrogatif couch\u00e9.",
+        "Machine Translation": "\u4e0a\u8072\u8abf\u6216\u964d\u5347\u8abf\u3002\u5b83\u7684\u767c\u97f3\u65b9\u6cd5\u662f\u5f9e\u4e2d\u8072\u958b\u59cb\uff0c\u7a81\u7136\u5347\u5230\u4e0a\u8072\uff0c\u7136\u5f8c\u518d\u964d\u4e0b\u4f86\uff0c\u4f8b\u5982\u8868\u793a\u9a5a\u8a1d\u7684\u55ae\u8a5e\uff1atiens\u3002\u9019\u7a2e\u8072\u8abf\u5f88\u5c11\u4f7f\u7528\uff0c\u7528\u4ef0\u81e5\u554f\u865f\u8868\u793a\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u8cb7 m\u00e3i"
+    },
+    {
+        "Index": "6",
+        "Original Page": "",
+        "Presumptions": "\u967d\u4e0a23",
+        "Spellings": "\u1ea1",
+        "Descriptions": "Le ton ascendant inf\u00e9rieur ou ton lourd. Il se prononce en partant du ton inf\u00e9rieur pour s'\u00e9lever brusquement au ton moyen en contractant sensiblement le gosier, un peu \u00e0 la fa\u00e7on du ah! aoh! des Anglais, genre comique. Il se repr\u00e9sente par un point sous la voyelle.",
+        "Machine Translation": "\u4e0b\u5347\u8abf\u6216\u91cd\u97f3\u3002\u767c\u97f3\u6642\uff0c\u5f9e\u4f4e\u8072\u958b\u59cb\uff0c\u7a81\u7136\u5347\u5230\u4e2d\u8072\uff0c\u5589\u56a8\u660e\u986f\u6536\u7e2e\uff0c\u6709\u9ede\u50cf\u82f1\u8a9e\u4e2d\u7684\u554a\uff01\u554a\uff01\u7684\u6ed1\u7a3d\u98a8\u683c\u3002\u5143\u97f3\u4e0b\u9762\u7528\u4e00\u500b\u9ede\u8868\u793a\u3002",
+        "Language Analogues": "(Eng) ah!\n(Eng) aoh!",
+        "Example Words": "\u71b1 nh\u1ecbt\n\u665a m\u1ea1n\n\u4f60 n\u1ecb\n\u8089 nh\u1ee5c\n\u9d28 \u1ea1p"
+    },
+    {
+        "Index": "7",
+        "Original Page": "",
+        "Presumptions": "\u9670\u4e0a24",
+        "Spellings": "\u1ea3",
+        "Descriptions": "Le ton ascendant \u00e9tendu ou interrogatif. Il se prononce en partant du ton inf\u00e9rieur pour monter brusquement au ton sup\u00e9rieur avec dans la voix l'interrogation bien marqu\u00e9e jointe \u00e0 la surprise d'une nouvelle inattendue, comme par exemple \"ah!\" en r\u00e9ponse \u00e0 : un tel est mort. Ce ton s'indique par le signe interrogatif.",
+        "Machine Translation": "\u5ef6\u9577\u5347\u8abf\u6216\u7591\u554f\u8abf\u3002\u767c\u97f3\u6642\u5f9e\u4f4e\u97f3\u958b\u59cb\uff0c\u7a81\u7136\u5347\u81f3\u9ad8\u97f3\uff0c\u8072\u97f3\u4e2d\u5e36\u6709\u660e\u986f\u7684\u7591\u554f\u8a9e\u6c23\uff0c\u540c\u6642\u5c0d\u610f\u5916\u6d88\u606f\u611f\u5230\u9a5a\u8a1d\uff0c\u4f8b\u5982\u5728\u56de\u7b54 \"\u67d0\u67d0\u6b7b\u4e86 \"\u6642\u8aaa \"\u554a\uff01\"\u3002\u9019\u7a2e\u8a9e\u6c23\u7528\u554f\u865f\u8868\u793a\u3002",
+        "Language Analogues": "(Fra) ah!",
+        "Example Words": "\u9060 g\u1ec9n\n\u6562 c\u1ea3m\n\u7540 b\u1ec9\n\u9905 p\u1ebbng\n\u4ed4 ch\u1ea3y\n\u6253 t\u1ea3"
+    },
+    {
+        "Index": "8",
+        "Original Page": "14",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "La m\u00e9thode du qu\u1ed9c ng\u1ee9 nous a permis de noter les tons; elle va nous permettre maintenant de noter la prononciation, mais d'une fa\u00e7on moins parfaite cependant, car quelques consonnes, le P, le b , particuli\u00e8rement sont parfois prises l'un\u00e8 pour l'autre indiff\u00e9remment par beaucoup d'indig\u00e8nes.",
+        "Machine Translation": "\u7528 \"qu\u1ed9c ng\u1ee9 \"\u7684\u65b9\u6cd5\uff0c\u6211\u5011\u53ef\u4ee5\u8a18\u4e0b\u8072\u8abf\uff1b\u73fe\u5728\uff0c\u6211\u5011\u53ef\u4ee5\u8a18\u4e0b\u767c\u97f3\uff0c\u4f46\u4e0d\u90a3\u9ebc\u5b8c\u7f8e\uff0c\u56e0\u7232\u6709\u4e9b\u8f14\u97f3\uff0c\u7279\u5225\u662f P\u3001b\uff0c\u6709\u6642\u6703\u88ab\u8a31\u591a\u7576\u5730\u4eba\u7121\u610f\u8b58\u5730\u6df7\u6dc6\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "9",
+        "Original Page": "15",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Nous avons vu les accents d'intonation, nous allons maintenant voir les accents de prononciation,\nce sont :\nL'accent circonflexe ( ^ );\nL'accent bref ( v ) ;\nLa barbe ( ' ) qui affecte l'u et l'o pour en changer absolument la valeur.\nIl est \u00e9vident que l'accent d'intonation n'exclut pas l'accent de prononciation et qu'une voyelle peut les poss\u00e9der simultan\u00e9ment , ainsi que nous allons le voir par les exemples qui vont suivre.",
+        "Machine Translation": "\u6211\u5011\u5df2\u7d93\u770b\u5230\u4e86\u8a9e\u8abf\u91cd\u97f3\uff0c\u73fe\u5728\u6211\u5011\u4f86\u770b\u770b\u767c\u97f3\u91cd\u97f3\u3001\n\u5b83\u5011\u662f\n\u5713\u5468\u91cd\u97f3 ( ^ )\uff1b\n\u77ed\u91cd\u97f3 ( v )\uff1b\n\u5012\u9264\u91cd\u97f3\uff08'\uff09\uff0c\u5b83\u5f71\u97ff u \u548c o\uff0c\u5b8c\u5168\u6539\u8b8a\u4e86\u5b83\u5011\u7684\u97f3\u503c\u3002\n\u5f88\u660e\u986f\uff0c\u8a9e\u8abf\u91cd\u97f3\u4e26\u4e0d\u6392\u9664\u767c\u97f3\u91cd\u97f3\uff0c\u4e00\u500b\u5143\u97f3\u53ef\u4ee5\u540c\u6642\u5177\u6709\u9019\u5169\u7a2e\u91cd\u97f3\uff0c\u6211\u5011\u5c07\u5f9e\u4e0b\u9762\u7684\u4f8b\u5b50\u4e2d\u770b\u5230\u9019\u4e00\u9ede\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "10",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Gr\u00e2ce \u00e0 la barbe accol\u00e9e \u00e0 l'u et \u00e0 l'o , on peut dire que le cantonais poss\u00e8de huit voyelles : a, e, i, o, u, y, \u01a1, \u01b0.",
+        "Machine Translation": "\u7531\u65bc u \u548c o \u5e36\u6709\u5012\u9264\uff0c\u6211\u5011\u53ef\u4ee5\u8aaa\u5ee3\u6771\u8a71\u6709\u516b\u500b\u5143\u97f3\uff1aa\u3001e\u3001i\u3001o\u3001u\u3001y\u3001\u01a1\u3001\u01b0\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "11",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Leur son varie suivant l'accent de prononciation dont chacune peut- \u00eatre affect\u00e9e.",
+        "Machine Translation": "\u5b83\u5011\u7684\u767c\u97f3\u6839\u64da\u6bcf\u500b\u5143\u97f3\u7684\u767c\u97f3\u91cd\u97f3\u800c\u4e0d\u540c\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "12",
+        "Original Page": "",
+        "Presumptions": "a",
+        "Spellings": "a",
+        "Descriptions": "L'a sans accent se prononce la bouche bien ouverte comme dans les mots fran\u00e7ais : las, gras.",
+        "Machine Translation": "\u7121\u91cd\u97f3\u7684 a \u5728\u767c\u97f3\u6642\u5f35\u5927\u5634\u5df4\uff0c\u5982\u6cd5\u8a9e\u4e2d\u7684 las\u3001gras\u3002",
+        "Language Analogues": "(Fra) las /la/\n(Fra) gra /gra/",
+        "Example Words": "\u767d p\u1ea1c b\u1ea1c\n\u516b b\u00e1t p\u00e1t\n\u65ac ch\u1ea3m\n\u53c9 x\u00e1\n\u6253 t\u1ea3"
+    },
+    {
+        "Index": "13",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "\u00e2",
+        "Descriptions": "L'\u00e2 - avec accent circontlexe - se prononce brefet tient le milieu entre l'a et l'e fran\u00e7ais, ou plus exactement peut- \u00eatre sa consonnance se rapproche-t-elle de celle des mots fran\u00e7ais: huin! ham!",
+        "Machine Translation": "\u5e36\u5713\u5708\u91cd\u97f3\u7684 \u00e2 \u767c\u5f97\u5f88\u77ed\uff0c\u8655\u65bc\u6cd5\u8a9e a \u548c e \u4e4b\u9593\u7684\u4e2d\u9593\u4f4d\u7f6e\uff0c\u6216\u8005\u66f4\u6e96\u78ba\u5730\u8aaa\uff0c\u5b83\u7684\u8f14\u97f3\u53ef\u80fd\u8207\u6cd5\u8a9e\u55ae\u8a5e\u7684\u8f14\u97f3\u76f8\u4f3c\uff1ahuin\uff01ham\uff01",
+        "Language Analogues": "(Fra) hum /\u0153m/\n(Fra) ham /\u0251\u0303/",
+        "Example Words": "\u4eba nh\u1ea7n\n\u5341 c\u1eadp\n\u5165 gi\u1eadp\n\u9280 ng\u1ea7n"
+    },
+    {
+        "Index": "14",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "\u0103",
+        "Descriptions": "avec l'accent bref - se prononce la bouche bien ouverte et bri\u00e8vement comme en fran\u00e7ais les mots: bac, lac.",
+        "Machine Translation": "\u767c\u97f3\u6642\u5f35\u5927\u5634\u5df4\uff0c\u767c\u97f3\u7c21\u77ed\uff0c\u5c31\u50cf\u6cd5\u8a9e\u4e2d\u7684 bac \u548c lac\u3002",
+        "Language Analogues": "(Fra) bac /bak/\n(Fra) lac /lak/",
+        "Example Words": "\u91dd ch\u1eafm\n\u58a8 m\u1eb7c\nquarter qu\u1eaft\n\u4e03 x\u1eaft"
+    },
+    {
+        "Index": "15",
+        "Original Page": "",
+        "Presumptions": "ai",
+        "Spellings": "ai",
+        "Descriptions": "se prononce long, comme dans le mot fran\u00e7ais: baille.",
+        "Machine Translation": "\u767c\u97f3\u8f03\u9577\uff0c\u5982\u6cd5\u8a9e\u55ae\u8a5e\uff1abaille.",
+        "Language Analogues": "(Fra) baille /baj/",
+        "Example Words": "\u5927 t\u00e0i\n\u8ce3 m\u00e0i\n\u8cb7 m\u00e3i\n\u62dc bai"
+    },
+    {
+        "Index": "16",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "ay",
+        "Descriptions": "se prononce bref, comme dans le mot fran\u00e7ais: bail .",
+        "Machine Translation": "\u767c\u97f3\u77ed\uff0c\u5982\u6cd5\u8a9e\u8a5e bail\u3002",
+        "Language Analogues": "(Fra) bail /baj/",
+        "Example Words": "\u6d17 x\u1ea3y\n\u9dc4 c\u00e1y\n\u4ed4 ch\u1ea3y\n\u7c73 m\u1ea1y\n\u7d30 xay"
+    },
+    {
+        "Index": "17",
+        "Original Page": "17",
+        "Presumptions": "",
+        "Spellings": "\u00e2y",
+        "Descriptions": "se prononce bref, \u00e9galement, comme dans les mots fran\u00e7ais: veille, vaille.",
+        "Machine Translation": "\u767c\u97f3\u77ed\uff0c\u5982\u6cd5\u8a9e\u8a5e\uff1aveille\u3001vaille\u3002",
+        "Language Analogues": "(Fra) veille /v\u025bj/\n(Fra) vaille",
+        "Example Words": "h\u1ea7y\n\u7282 l\u1ea7y\n\u780c\u570d x\u00e2y v\u1ea7y\n\u6ce5 n\u1ea7y"
+    },
+    {
+        "Index": "18",
+        "Original Page": "",
+        "Presumptions": "\u0250u",
+        "Spellings": "au",
+        "Descriptions": "se prononce long, comme dans le mot fran\u00e7ais: chaos.",
+        "Machine Translation": "\u8b80\u4f5c\u9577\u97f3\uff0c\u5982\u6cd5\u8a9e\u55ae\u8a5e\uff1achaos\u3002",
+        "Language Analogues": "(Fra) chaos /kao/",
+        "Example Words": "\u5077 th\u00e1u\n\u6f0f l\u00e0u\n\u624b x\u1ea3u\n\u5b32 n\u00e1u"
+    },
+    {
+        "Index": "19",
+        "Original Page": "",
+        "Presumptions": "\u0259u",
+        "Spellings": "\u00e2u",
+        "Descriptions": "avec l'accent circonflexe sur l'a - a le m\u00eame son, mais se prononce plus bri\u00e8vement.",
+        "Machine Translation": "\u5728 a \u4e0a\u52a0\u5713\u5468\u6487\u865f - \u767c\u76f8\u540c\u7684\u97f3\uff0c\u4f46\u767c\u97f3\u66f4\u77ed\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u6709 gi\u1eadu\n\u597d h\u1ea9u\n\u5187 m\u1eadu\n\u8349 t\u1ea9u\n\u5230 t\u00e2u"
+    },
+    {
+        "Index": "20",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "\u0103u",
+        "Descriptions": "Enfin \u0103u tient le milieu entre au et \u00e2u. Cette diphtongue se rencontre assez rarement.",
+        "Machine Translation": "\u6700\u5f8c\uff0c\u0103u \u4f4d\u65bc au \u548c \u00e2u \u4e4b\u9593\u3002\u9019\u7a2e\u96d9\u5143\u97f3\u975e\u5e38\u7f55\u898b\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u664f\u665d an ch\u0103u\n\u6e9d c\u1eafu"
+    },
+    {
+        "Index": "21",
+        "Original Page": "",
+        "Presumptions": "au",
+        "Spellings": "ao",
+        "Descriptions": "La diphtongue ao se prononce en \u00e9mettant successivement les deux lettres.",
+        "Machine Translation": "\u96d9\u5143\u97f3 ao \u7684\u767c\u97f3\u662f\u9023\u7e8c\u767c\u51fa\u5169\u500b\u5b57\u6bcd\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u98b6\u98a8 c\u1ea1o ph\u00f3ng\n\u70ae phao\n\u5228 pha\u00f2\n\u70ae\u7d19 phao-ch\u1ec9\n\u5305 b\u00e1o"
+    },
+    {
+        "Index": "22",
+        "Original Page": "",
+        "Presumptions": "\u025b",
+        "Spellings": "e",
+        "Descriptions": "L'e sans accent de prononciation se prononce la bouche ouverte, comme dans les mots fran\u00e7ais: p\u00e8re, cher. C'est l'e ouvert. Cette lettre est du reste peu employ\u00e9e.",
+        "Machine Translation": "\u7121\u91cd\u97f3\u7684 e \u662f\u5f35\u958b\u5634\u5df4\u767c\u97f3\u7684\uff0c\u5982\u6cd5\u8a9e\u4e2d\u7684 p\u00e8re \u548c cher\u3002\u9019\u5c31\u662f\u958b\u53e3 e\u3002\u9019\u500b\u5b57\u6bcd\u5f88\u5c11\u4f7f\u7528\u3002",
+        "Language Analogues": "(Fra) p\u00e8re /p\u025br/\n(Fra) cher /\u0283\u025br/",
+        "Example Words": "\u4e5c\u5622 m\u1eafn nh\u00e8"
+    },
+    {
+        "Index": "23",
+        "Original Page": "18",
+        "Presumptions": "e",
+        "Spellings": "\u00ea",
+        "Descriptions": "avec accent circonflexe - est beaucoup plus commun. Il se prononce la bouche moins ouverte, comme dans les mots fran\u00e7ais: sc\u00e8ne, r\u00eane.\nC'est l'e ferm\u00e9.",
+        "Machine Translation": "\u5e36\u63da\u6291\u7b26\u7684 e \u8981\u5e38\u898b\u5f97\u591a\u3002\u767c\u97f3\u6642\u5634\u5df4\u4e0d\u90a3\u9ebc\u5f35\u958b\uff0c\u5982\u6cd5\u8a9e\u55ae\u8a5e sc\u00e8ne \u548c r\u00eane\u3002\u9019\u662f\u9589\u5408\u7684 e\u3002",
+        "Language Analogues": "(Fra) sc\u00e8ne / s\u025bn/\n(Fra) r\u00eane / r\u025bn/",
+        "Example Words": "\u8b58 x\u1ebfch\n\u8eca x\u1ebf\n\u4e9e\u3737 a-m\u1ebf"
+    },
+    {
+        "Index": "24",
+        "Original Page": "",
+        "Presumptions": "(i\u0306)\u025b-",
+        "Spellings": "ie-",
+        "Descriptions": "Jamais on ne renconlre les diphfongues, ei, eo, ea. Quand e suit i = ie, c'est \u00e0 peine si on l'entend prononcer; il n'en est pas de m\u00eame dans la diphtongue ieu, elle-m\u00eame peu fr\u00e9quente.",
+        "Machine Translation": "\u96d9\u5143\u97f3 ei\u3001eo\u3001ea \u5f9e\u672a\u51fa\u73fe\u904e\u3002\u7576 e \u8ddf\u5728 i = ie \u4e4b\u5f8c\u6642\uff0c\u4f60\u5e7e\u4e4e\u807d\u4e0d\u5230\u5b83\u7684\u767c\u97f3\uff1b\u96d9\u5143\u97f3 ieu \u5247\u4e0d\u7136\uff0c\u5b83\u672c\u8eab\u5c31\u4e0d\u5e38\u51fa\u73fe\u3002\"",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "25",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Enfin \u00ea remplace parfois i.",
+        "Machine Translation": "\u6700\u5f8c\uff0c\u00ea \u6709\u6642\u6703\u4ee3\u66ff i\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u908a\u5572 b\u1ebfn t\u00ed\n\u908a\u5572 b\u00edn t\u00ed"
+    },
+    {
+        "Index": "26",
+        "Original Page": "19",
+        "Presumptions": "i",
+        "Spellings": "i",
+        "Descriptions": "La lettre i se rencontre commun\u00e9ment; elle n'est soumise qu'aux lois de l'intonation, il est donc inutile d'insister sur son compte.",
+        "Machine Translation": "\u5b57\u6bcd i \u5f88\u5e38\u898b\uff0c\u5b83\u53ea\u53d7\u8072\u8abf\u898f\u5f8b\u7684\u5236\u7d04\uff0c\u56e0\u6b64\u6c92\u6709\u5fc5\u8981\u591a\u8aaa\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "27",
+        "Original Page": "",
+        "Presumptions": "\u0254",
+        "Spellings": "o",
+        "Descriptions": "La lettre o, tr\u00e8s fr\u00e9quente, sans accent de prononciation c'est un o ouvert qu'on prononce en ouvrant la bouche comme dans le mot fran\u00e7ais hotte.",
+        "Machine Translation": "\u5b57\u6bcd o \u975e\u5e38\u5e38\u898b\uff0c\u6c92\u6709\u767c\u97f3\u91cd\u97f3\uff0c\u662f\u5f35\u958b\u5634\u5df4\u767c\u97f3\u7684\u958b\u653e\u5f0f o\uff0c\u5982\u6cd5\u8a9e\u4e2d\u7684 hotte\u3002",
+        "Language Analogues": "(Fra) hotte /\u0254t/",
+        "Example Words": "\u60e1 \u1ecdc\n\u5614 a\u00f2\n\u4ea4 ca\u00f3"
+    },
+    {
+        "Index": "28",
+        "Original Page": "",
+        "Presumptions": "o",
+        "Spellings": "\u00f4",
+        "Descriptions": "L'\u00f4 - avec un accent circonflexe est un o ferm\u00e9 qu'on prononce comme dans les mots fran\u00e7ais: clos, r\u00f4le.",
+        "Machine Translation": "\u5e36\u6709\u5713\u5468\u91cd\u97f3\u7684\u5b57\u6bcd o \u662f\u4e00\u500b\u9589\u5408\u7684 o\uff0c\u5176\u767c\u97f3\u8207\u6cd5\u8a9e\u55ae\u8a5e clos\u3001r\u00f4le \u76f8\u4f3c\u3002",
+        "Language Analogues": "(Fra) close\n(Fra) r\u00f4le /rol/",
+        "Example Words": "\u6211 ng\u1ed9\n\u904e c\u00f4\n\u7d22 x\u1ed9c\n\u6728 m\u1ed9c\n\u651e l\u1ed5"
+    },
+    {
+        "Index": "29",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "\u01a1",
+        "Descriptions": "L'\u01a1 barbu. \u2014 Il est difficile de donner exactement sa consonance, car elle n'est pas uniforme, dans quelques mots elle se rapproche de l'\u00f4, dans d'autres, et c'est le cas le plus g\u00e9n\u00e9ral, elle se rapproche de \u0153u dans \u0153uf.",
+        "Machine Translation": "L'\u01a1 barbu. - \u5f88\u96e3\u6e96\u78ba\u8aaa\u51fa\u5b83\u7684\u8ae7\u97f3\uff0c\u56e0\u7232\u5b83\u7684\u767c\u97f3\u4e26\u4e0d\u7d71\u4e00\uff0c\u5728\u6709\u4e9b\u55ae\u8a5e\u4e2d\uff0c\u5b83\u63a5\u8fd1\u65bc \u00f4\uff0c\u800c\u5728\u53e6\u4e00\u4e9b\u55ae\u8a5e\u4e2d\uff0c\u9019\u662f\u6700\u5e38\u898b\u7684\u60c5\u6cc1\uff0c\u5b83\u63a5\u8fd1\u65bc \u0153uf \u4e2d\u7684\u0153u\u3002",
+        "Language Analogues": "(Fra) \u0153uf /\u0153f/",
+        "Example Words": ""
+    },
+    {
+        "Index": "30",
+        "Original Page": "",
+        "Presumptions": "\u0153\u0254\u014b",
+        "Spellings": "\u01b0\u01a1ng",
+        "Descriptions": "se rapprochant de l'\u00f4",
+        "Machine Translation": "\u63a5\u8fd1 \u00f4",
+        "Language Analogues": "",
+        "Example Words": "\u6728\u5320 m\u1ed9c ch\u01b0\u1eddng\n\u60f3 x\u01b0\u1edfng\n\u5531 x\u01b0\u01a1ng\n\u4e0a x\u01b0\u1eddng"
+    },
+    {
+        "Index": "31",
+        "Original Page": "",
+        "Presumptions": "\u0153k",
+        "Spellings": "\u01b0\u01a1c",
+        "Descriptions": "se rapprochant de \u0153u",
+        "Machine Translation": "\u63a5\u8fd1 \u0153u",
+        "Language Analogues": "",
+        "Example Words": "\u8173 c\u01b0\u1ee3c\n\u85e5 gi\u01b0\u1ee3c\n\u96c0\u4ed4 ch\u01b0\u1ee3c-ch\u1ea3y"
+    },
+    {
+        "Index": "32",
+        "Original Page": "20",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Les diphtongues oa, oi, \u00f4i, \u01a1i et oai se prononcent en \u00e9noncant successivement toutes les lettres et comme si l'i avait un tr\u00e9ma.",
+        "Machine Translation": "\u96d9\u5143\u97f3 oa\u3001oi\u3001\u00f4i\u3001\u01a1i \u548c oai \u7684\u767c\u97f3\u65b9\u6cd5\u662f\u9023\u8b80\u6240\u6709\u5b57\u6bcd\uff0c\u5c31\u50cf i \u5e36\u5143\u97f3\u4e00\u6a23\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u96c0\u4ed4 ch\u01b0\u1ee3c-ch\u1ea3y \n\u9aa8\u683c ko\u1eaft cac \n\u958b h\u1ed1i \n\u96f7\u516c\u97ff l\u00f9i c\u1ed1ng l\u01b0\u1edfng \n\u96f7\u516c\u97ff l\u1edfi c\u1ed1ng l\u01b0\u1edfng \n\u4f86 l\u1ed3i\n\u5916\u982dng\u1ed3i th\u1ea7u"
+    },
+    {
+        "Index": "33",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Il arrive assez fr\u00e9quemment qu'on entend l'o et l'\u00f4 pour l'u.",
+        "Machine Translation": "o \u548c \u00f4 \u8868\u793a u \u7684\u60c5\u6cc1\u5f88\u5e38\u898b\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u6734\u5b50 b\u1ecdc ch\u1ec9\n\u6734\u5b50 b\u1ee5c ch\u1ec9\n\u7aae kh\u1ed3ng\n\u7aae kh\u00f9ng\n\u8925\u5b50 nh\u1ee5c ch\u1ec9\n\u8925\u5b50 nh\u1ecdc ch\u1ec9\n\u98a8 ph\u00f3ng\n\u98a8 ph\u00fang"
+    },
+    {
+        "Index": "34",
+        "Original Page": "",
+        "Presumptions": "u",
+        "Spellings": "u",
+        "Descriptions": "L'u se prononce comme ou en fran\u00e7ais.",
+        "Machine Translation": "u \u7684\u767c\u97f3\u8207\u6cd5\u8a9e\u4e2d\u7684 ou \u76f8\u4f3c\u3002",
+        "Language Analogues": "(Fra) ou /u/",
+        "Example Words": "\u540c th\u00f9ng\n\u540c th\u00f2ng\n\u6b61\u559c ph\u00fan h\u1ec9\n\u597d\u7b11 h\u1eb3u xiu\n\u4e00\u7a2e\u540c gi\u1eaft ch\u1ee7ng th\u00f9ng"
+    },
+    {
+        "Index": "35",
+        "Original Page": "",
+        "Presumptions": "y",
+        "Spellings": "\u01b0",
+        "Descriptions": "L'u - barbu - se prononce presque comme l'u fran\u00e7ais, en avan\u00e7ant un peu la l\u00e8vre inf\u00e9rieure; dans certains mots la consonance se rapproche de celle du mot fran\u00e7ais heu!",
+        "Machine Translation": "u--\u9b0d\u9b1a--\u7684\u767c\u97f3\u5e7e\u4e4e\u8207\u6cd5\u8a9e\u7684 u",
+        "Language Analogues": "(Fra) u /y/\n(Fra) heu /\u00f8/",
+        "Example Words": "\u5f31 nh\u01b0\u1ee3c \n\u5a18\u5abd n\u01b0\u1edbng m\u00e1\n\u8173 c\u01b0\u1ee3c"
+    },
+    {
+        "Index": "36",
+        "Original Page": "21",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Il est tr\u00e8s rare de trouver l'\u01b0 \u00e0 la fin d'un mot comme en annamite o\u00f9, au contraire, la rencontre est fr\u00e9quente.",
+        "Machine Translation": "\u01b0\u5f88\u5c11\u51fa\u73fe\u5728\u8a5e\u5c3e\uff0c\u800c\u5728\u5b89\u90a3\u59c6\u8a9e\u4e2d\u537b\u7d93\u5e38\u51fa\u73fe\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u9017\u7b11 t\u0103u xiu\n\u904e c\u00f4\ncua t\u1ec1u\n\u4eca\u671d c\u1eafm ch\u00edu\n\u8239 x\u00ecn\n\u6c34\u63a8 x\u1ee7y thu\u00ed\n\u7bb1 x\u01b0\u1edbng\n\u79e7 gi\u01b0\u1edbng\n\u990a gi\u01b0\u1edfng\n\u7f8a gi\u01b0\u1eddng\n\u570b qu\u1ed1c\n\u570b c\u1ecdc"
+    },
+    {
+        "Index": "37",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Les diphtongues iu, ieu, ua, ui, \u01b0\u01a1, u\u00f4, sont \u00e0 peu pr\u00e8s les seules usit\u00e9es avec les lettres u et \u01b0, La langue annamite en pr\u00e9sente davantage : \u01b0a, ue, u\u00ea, uoi, \u01b0\u01a1i, et \u01b0\u01a1u qu'on ne trouve que tr\u00e8s rarement dans le cantonais.",
+        "Machine Translation": "\u96d9\u5143\u97f3 iu\u3001ieu\u3001ua\u3001ui\u3001\u01b0\u01a1\u3001u\u00f4 \u6216\u591a\u6216\u5c11\u662f\u8207\u5b57\u6bcd u \u548c \u01b0 \u4e00\u8d77\u4f7f\u7528\u7684\u552f\u4e00\u5143\u97f3\u3002 \u5b89\u5357\u8a9e\u4e2d\u9084\u6709\u66f4\u591a\u7684\u96d9\u5143\u97f3\uff1a\u01b0a\u3001ue\u3001u\u00ea\u3001uoi\u3001\u01b0\u01a1i \u548c \u01b0\u01a1u\uff0c\u9019\u5728\u7cb5\u8a9e\u4e2d\u5f88\u5c11\u898b\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "38",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Ces diphtongues se prononcent en \u00e9mettant successivement toutes les lettres d'apr\u00e8s les r\u00e8gles d\u00e9j\u00e0 \u00e9nonc\u00e9es.",
+        "Machine Translation": "\u9019\u4e9b\u96d9\u5143\u97f3\u7684\u767c\u97f3\u65b9\u6cd5\u662f\u6309\u7167\u4e0a\u8ff0\u898f\u5247\u9023\u7e8c\u767c\u51fa\u6240\u6709\u5b57\u6bcd\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "39",
+        "Original Page": "",
+        "Presumptions": "i",
+        "Spellings": "y",
+        "Descriptions": "L'y se pr\u00e9sente quelquefois, mais presque toujours \u00e0 la fin des mots; il est du reste soumis aux m\u00eames lois que l'i; ils se remplacent parfois l'un l'autre.",
+        "Machine Translation": "y \u5076\u723e\u51fa\u73fe\uff0c\u4f46\u5e7e\u4e4e\u7e3d\u662f\u51fa\u73fe\u5728\u8a5e\u5c3e\uff1b\u5b83\u8207 i \u9075\u5faa\u76f8\u540c\u7684\u898f\u5f8b\uff1b\u5b83\u5011\u6709\u6642\u6703\u4e92\u76f8\u66ff\u4ee3\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "40",
+        "Original Page": "22",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Prises isol\u00e9ment, les consonnes ont la m\u00eame valeur qu'en fran\u00e7ais, except\u00e9 pourtant le d non barr\u00e9, qu'il vaut mieux ne pas employer, l'r et l's. On remplace l'f par ph et le z n'existe pas. Enfin, pour rendre les sons, on accole deux et parfois trois consonnes.\nNous allons voir la valeur de ses assemblages.",
+        "Machine Translation": "\u5b64\u7acb\u5730\u770b\uff0c\u9664\u4e86\u6700\u597d\u4e0d\u8981\u4f7f\u7528\u7684\u7121\u6a19\u8a18 d\u3001r \u548c s \u5916\uff0c\u8f14\u97f3\u7684\u610f\u7fa9\u8207\u6cd5\u8a9e\u76f8\u540c\u3002F \u88ab ph \u4ee3\u66ff\uff0cz \u4e0d\u5b58\u5728\u3002\u6700\u5f8c\uff0c\u7232\u4e86\u767c\u97f3\uff0c\u5169\u500b\u8f14\u97f3\uff0c\u6709\u6642\u662f\u4e09\u500b\u8f14\u97f3\u6703\u9023\u5728\u4e00\u8d77\u3002\n\u6211\u5011\u73fe\u5728\u4f86\u770b\u770b\u9019\u4e9b\u7d44\u5408\u7684\u50f9\u503c\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "41",
+        "Original Page": "",
+        "Presumptions": "tsV\n-k\u031a",
+        "Spellings": "chV\n-ch",
+        "Descriptions": "ch - n'a pas de correspondant en fran\u00e7ais; il tient le milieu entre tchi et ti devant une voyelle.\nA la fin d'un mot, ch indique une prononciation gutturale \u00e0 peine sensible.\nOn le rencontre du reste tr\u00e8s peu \u00e0 cette place, tandis qu'il est tr\u00e8s commun \u00e0 la t\u00eate des mots.",
+        "Machine Translation": "\u5728\u6cd5\u8a9e\u4e2d\uff0cch\u6c92\u6709\u5c0d\u61c9\u7684\u8f14\u97f3\uff1b\u5b83\u5728\u5143\u97f3\u524d\u4ecb\u65bc \"tchi \"\u548c \"ti \"\u4e4b\u9593\u3002\u5728\u55ae\u8a5e\u672b\u5c3e\uff0c\"ch \"\u8868\u793a\u5e7e\u4e4e\u611f\u89ba\u4e0d\u5230\u7684\u5589\u97f3\u3002\u5b83\u5f88\u5c11\u51fa\u73fe\u5728\u9019\u500b\u4f4d\u7f6e\uff0c\u800c\u5728\u8a5e\u982d\u537b\u5f88\u5e38\u898b\u3002",
+        "Language Analogues": "(Fra) tchi /t\u0283i/\n(Fra) ti /ti/",
+        "Example Words": "\u96c6 ch\u1ea1p\n\u6349\u9b5a ch\u1ecdc nh\u00ec\n\u7956\u516c ch\u1ee7 c\u1ed1ng\n\u4ef2 ch\u1ed3ng\n\u9152 ch\u1ea9u\n\u96c0\u4ed4 ch\u01b0\u1ee3c ch\u1ea3y\n\u65e9 ch\u1ea9u\n\u937e\u610f ch\u00fang y\n\u4ef2\u65e5 ch\u00f9ng nh\u1ea1t\n\u8b58 x\u1ebfch"
+    },
+    {
+        "Index": "42",
+        "Original Page": "23",
+        "Presumptions": "j",
+        "Spellings": "d",
+        "Descriptions": "Le d non barr\u00e9 n'a pas de correspondant en fran\u00e7ais; il est d'ailleurs peu employ\u00e9 par les Chinois et les mots auxquels il s'applique sont sur\u00adtout de la langue quan-hoa.\nIl se prononce comme gi mouill\u00e9, en essayant de faire sentir le z. Aussi le plus souvent se remplacet-il par le gi prononc\u00e9 comme il vient d'\u00e9tre dit.\nNous estimons m\u00eame qu'il est absolument inutile de conserver cette lettre pour le cantonais et nous la remplaceront toujours par gi.",
+        "Machine Translation": "\u4e2d\u570b\u4eba\u5f88\u5c11\u4f7f\u7528\u5b83\uff0c\u4f7f\u7528\u5b83\u7684\u8a5e\u4e3b\u8981\u662f\u5b98\u8a71\u3002\u5b83\u7684\u767c\u97f3\u50cf\u6ebc gi\uff0c\u8a66\u5716\u767c\u51fa z \u97f3\u3002\u56e0\u6b64\uff0c\u901a\u5e38\u7528\u767c\u97f3\u5982\u4e0a\u7684 gi \u4f86\u4ee3\u66ff\u3002\n\u6211\u5011\u751a\u81f3\u8a8d\u7232\uff0c\u5728\u7cb5\u8a9e\u4e2d\u4fdd\u7559\u9019\u500b\u5b57\u6bcd\u662f\u7d55\u5c0d\u6c92\u6709\u7528\u7684\uff0c\u5c07\u59cb\u7d42\u7528 gi \u4ee3\u66ff\u5b83\u3002",
+        "Language Analogues": "(Fra) gi /\u0292/\n(Fra) z /z/",
+        "Example Words": "\u9694\u9060 cac d\u1ee5yn\n\n\u6cb9 d\u1ea7u \n\u9060 d\u1ec9n \n\u9060 g\u1ec9n \n\u9e7d d\u00ecm \n\u9e7d g\u00ecm \n\u8449 d\u1ecbp"
+    },
+    {
+        "Index": "43",
+        "Original Page": "",
+        "Presumptions": "t",
+        "Spellings": "t",
+        "Descriptions": "Le, \u0111 barr\u00e9 n'est pas n\u00e9cessaire au cantonais: tous les mots annamites venant de cette langue et commen\u00e7ant par un \u0111, commeneent par t en cantonais.",
+        "Machine Translation": "\u5728\u7cb5\u8a9e\u4e2d\uff0c\u5283\u7dda\u7684 \u0111 \u4e0d\u662f\u5fc5\u9808\u7684\uff1a\u6240\u6709\u4f86\u81ea\u5b89\u5357\u8a9e\u7684\u4ee5 \u0111 \u958b\u982d\u7684\u8a5e\uff0c\u5728\u7cb5\u8a9e\u4e2d\u90fd\u4ee5 t \u958b\u982d\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u578c t\u1ed3ng \n\u7576 t\u00f3ng"
+    },
+    {
+        "Index": "44",
+        "Original Page": "",
+        "Presumptions": "j",
+        "Spellings": "gi",
+        "Descriptions": "Le gi tient la place du d et de l'r de fa\u00e7on absolue dans notre m\u00e9thode. Ilse prononce comme il est indiqu\u00e9 ci-dessus.",
+        "Machine Translation": "\u5728\u6211\u5011\u7684\u65b9\u6cd5\u4e2d\uff0c\"gi \"\u5b8c\u5168\u53d6\u4ee3\u4e86 \"d \"\u548c \"r\"\u3002\u767c\u97f3\u5982\u4e0a\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u4e00 gi\u1eaft\n\u6709 gi\u1eadu \n\u6a23\u5b50 gi\u01b0\u1eddng ch\u1ec9\n\u5165 gi\u1eadp"
+    },
+    {
+        "Index": "45",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Dans quelques r\u00e9gions gi est remplac\u00e9 par nh ou gu, dont nous allons voir la valeur plus loin.",
+        "Machine Translation": "\u5728\u67d0\u4e9b\u5730\u5340\uff0c\"gi \"\u88ab \"nh \"\u6216 \"gu \"\u4ee3\u66ff\uff0c\u6211\u5011\u7a0d\u5f8c\u6703\u770b\u5230\u5b83\u5011\u7684\u767c\u97f3\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "46",
+        "Original Page": "24",
+        "Presumptions": "k\u02b0",
+        "Spellings": "kh",
+        "Descriptions": "Le kh est peu commun. Il se prononce en aspirant fortement l'h.",
+        "Machine Translation": "Kh \u4e0d\u5e38\u898b\u3002\u5b83\u7684\u767c\u97f3\u662f\u5c07 h \u5f37\u529b\u5438\u6c23\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u54b3 kh\u1eaft \n\u8fd1 kh\u1eafn"
+    },
+    {
+        "Index": "47",
+        "Original Page": "",
+        "Presumptions": "h",
+        "Spellings": "h",
+        "Descriptions": "L'h est toujours aspir\u00e9e.",
+        "Machine Translation": "h \u7e3d\u662f\u5438\u6c23\u7684\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u4e5e h\u1eaft\n\u54ed h\u1ed3c\n\u5b78 h\u1ecdc\n\u978b h\u00e0i\n\u9084 h\u00e0n\n\u9591 h\u00e0n\nh\u00e1n h\u00e1n"
+    },
+    {
+        "Index": "48",
+        "Original Page": "",
+        "Presumptions": "ng",
+        "Spellings": "ng",
+        "Descriptions": "N'a pas de correspondant en frangais; onle trouve soit au commencement, soit a la fin dumot.",
+        "Machine Translation": "\u5b83\u8981\u9ebc\u51fa\u73fe\u5728\u55ae\u8a5e\u7684\u958b\u982d\uff0c\u8981\u9ebc\u51fa\u73fe\u5728\u55ae\u8a5e\u7684\u7d50\u5c3e\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "49",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Dans le premier cas il se prononce comme si on l'\u00e9crivait ngn en adoucissant, en \u00e9crasant plutot lesdeux n. si en frangais on pronongait ngnome (gnome) sans que la langue touche les dents, onaurait a peu pres la prononcialion du ng.",
+        "Machine Translation": "\u5728\u7b2c\u4e00\u7a2e\u60c5\u6cc1\u4e0b\uff0c\u5b83\u7684\u767c\u97f3\u5c31\u50cf\u5beb\u6210 ngn \u4e00\u6a23\uff0c\u5c07\u5169\u500b n \u8b8a\u8edf\u6216\u58d3\u6241\u3002\u5982\u679c\u6211\u5011\u5728\u6cd5\u8a9e\u4e2d\u767c\u97f3ngnome\uff08gnome\uff09\u6642\u820c\u982d\u4e0d\u63a5\u89f8\u7259\u9f52\uff0c\u6211\u5011\u7684\u767c\u97f3\u5c31\u6703\u8207 ng \u5dee\u4e0d\u591a\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "50",
+        "Original Page": "25",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Dans le second cas, a la fin des mots, il sert de consonne d'appui, grace au g final.Sans cette der-niere lettre I'n se prononce comme s'il \u00e9lait suivid'un e muet en francais.",
+        "Machine Translation": "\u7b2c\u4e8c\u7a2e\u60c5\u6cc1\u662f\uff0c\u5728\u8a5e\u5c3e\uff0c\u7531\u65bc\u6700\u5f8c\u4e00\u500b\u5b57\u6bcd g \u7684\u5b58\u5728\uff0cI'n \u8d77\u7740\u8f14\u52a9\u8f14\u97f3\u7684\u4f5c\u7528\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "51",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "ll est a remarquer que \u00f3ng du mot b\u00f3ng se prononce presque comme \u00e1ng, b\u00e1ng; il en est toujoursainsi pour les terminaisons semblables.",
+        "Machine Translation": "\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0c\"b\u00f3ng \"\u4e2d\u7684 \u00f3ng\u767c\u97f3\u5e7e\u4e4e\u8207 \"\u00e1ng\"\u3001\"b\u00e1ng \"\u76f8\u540c\uff1b\u985e\u4f3c\u7684\u8a5e\u5c3e\u7e3d\u662f\u5982\u6b64\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "52",
+        "Original Page": "",
+        "Presumptions": "ng",
+        "Spellings": "ngh",
+        "Descriptions": "Le ngh qu'on trouve en annamite n'existepas dans le cantonais.",
+        "Machine Translation": "\u5b89\u5357\u8a9e\u4e2d\u7684 ngh \u5728\u7cb5\u8a9e\u4e2d\u4e26\u4e0d\u5b58\u5728\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "53",
+        "Original Page": "",
+        "Presumptions": "nj",
+        "Spellings": "nh",
+        "Descriptions": "Le nh comme le ng se place au commence-cent ou a la fin des mots.",
+        "Machine Translation": "\u548c ng \u4e00\u6a23\uff0cnh \u4e5f\u6703\u51fa\u73fe\u5728\u55ae\u8a5e\u7684\u958b\u982d\u6216\u7d50\u5c3e\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "54",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Dans le premier cas; il se prononce presquecomme le gn fran\u00e7ais mouill\u00e9.",
+        "Machine Translation": "\u5728\u7b2c\u4e00\u7a2e\u60c5\u6cc1\u4e0b\uff0c\u5b83\u7684\u767c\u97f3\u5e7e\u4e4e\u8207\u6cd5\u8a9e gn mouill\u00e9 \u76f8\u4f3c\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "55",
+        "Original Page": "26",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Dans le second cas, il donne au mot la finale gne,comme dans le mot Gascogne.",
+        "Machine Translation": "\u5728\u7b2c\u4e8c\u7a2e\u60c5\u6cc1\u4e0b\uff0c\u5b83\u7d66\u55ae\u8a5e\u52a0\u4e0a\u6700\u5f8c\u7684 gne\uff0c\u5982 Gascogne \u4e00\u8a5e\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "56",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "ll arrive parfois que le nh et le ng se remplacentl'un l'autre, mais rarement.",
+        "Machine Translation": "\u6709\u6642 nh \u548c ng \u6703\u4e92\u76f8\u66ff\u4ee3\uff0c\u4f46\u5f88\u5c11\u898b\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "57",
+        "Original Page": "",
+        "Presumptions": "b",
+        "Spellings": "p",
+        "Descriptions": "Le p, nousl'avons dit plus haut, se confond souvent avec le b. On peut dire que ces deux lettresn'en forment g\u00e9n\u00e9ralement qu'une qui n'est ni lep, ni le b. Aussi le plus souvent \u00e9crit-on l'une pourl'autre.",
+        "Machine Translation": "\u5982\u524d\u6240\u8ff0\uff0cp \u8207 b \u7d93\u5e38\u88ab\u6df7\u6dc6\u3002\u53ef\u4ee5\u8aaa\uff0c\u9019\u5169\u500b\u5b57\u6bcd\u901a\u5e38\u7d44\u6210\u4e00\u500b\u65e2\u4e0d\u662f p \u4e5f\u4e0d\u662f b \u7684\u5b57\u6bcd\u3002\u9019\u5c31\u662f\u6211\u5011\u901a\u5e38\u7528\u4e00\u500b\u5b57\u6bcd\u4ee3\u66ff\u53e6\u4e00\u500b\u5b57\u6bcd\u7684\u539f\u56e0\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "58",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Mais il est encore plus curieux de remarquer quememe il arrive parfois que le p ou le b ou memele t se remplacent par x.",
+        "Machine Translation": "\u4f46\u66f4\u5947\u602a\u7684\u662f\uff0c\u6709\u6642 p \u6216 b \u751a\u81f3 t \u6703\u88ab x \u4ee3\u66ff\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "59",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Ainsi on dira :",
+        "Machine Translation": "\u6240\u4ee5\u6211\u5011\u8aaa",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "60",
+        "Original Page": "27",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Ce sont \u00e9videmment des corruptions du langage, car la phrase type doit etre : hi p\u00edn xi.",
+        "Machine Translation": "\u56e0\u7232\u6a19\u6e96\u7684\u53e5\u5b50\u61c9\u8a72\u662f\uff1ahi p\u00edn xi\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "61",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "ph",
+        "Descriptions": "Enfin le p remplace parfois le ph. ll se prononce d'une fa\u00e7on difficile a dire, se rapprochant du p et de I'f en serrant les levres et les ouvrant brusquement avec force.",
+        "Machine Translation": "\u6700\u5f8c\uff0cp \u6709\u6642\u6703\u4ee3\u66ff ph\u3002\u5b83\u7684\u767c\u97f3\u65b9\u5f0f\u5f88\u96e3\u8aaa\uff0c\u901a\u904e\u64e0\u58d3\u5634\u8123\u548c\u7a81\u7136\u7528\u529b\u5f35\u958b\u5634\u8123\u4f86\u63a5\u8fd1 p \u548c f\u3002",
+        "Language Analogues": "",
+        "Example Words": "\u7247\u83f8 phin-\u00edn\n\u5e73\u5b9c ph\u1ec1nh-nh\u00ec"
+    },
+    {
+        "Index": "62",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "q",
+        "Descriptions": "La lettre q est le plus souvent remplac\u00e9e par le c.",
+        "Machine Translation": "\u5b57\u6bcd q \u6700\u5e38\u88ab c \u4ee3\u66ff\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "63",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "r",
+        "Descriptions": "La lettre r n'est pas utilisee; dans les quelques mots o\u00f9 on croit l'entendre, il semble plus justed'employer le g prononc\u00e9 comme un j guttural ou gi mouill\u00e9.",
+        "Machine Translation": "\u5b57\u6bcd r \u4e0d\u88ab\u4f7f\u7528\uff1b\u5728\u5c11\u6578\u80fd\u807d\u5230\u5b83\u7684\u55ae\u8a5e\u4e2d\uff0c\u4f3c\u4e4e\u7528\u767c\u97f3\u50cf\u5589\u97f3 j \u6216\u6ebc\u97f3 gi \u7684 g \u66f4\u5408\u9069\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "64",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "g",
+        "Descriptions": "g\u1ec1nh, que certains Tonkinois \u00e9criraient peut-etre renh.",
+        "Machine Translation": "g\u1ec1nh\uff0c\u6709\u4e9b\u8d8a\u5357\u4eba\u53ef\u80fd\u6703\u5beb\u6210 renh\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "65",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "s",
+        "Descriptions": "L's se prononce un peu comme en francais le sh ou ch, mais en contractant le gosier legerement.",
+        "Machine Translation": "s \u7684\u767c\u97f3\u6709\u9ede\u50cf\u6cd5\u8a9e\u4e2d\u7684 sh \u6216 ch\uff0c\u4f46\u5589\u56a8\u7565\u5fae\u6536\u7e2e\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "66",
+        "Original Page": "28",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Cette lettre se rencontre d'ailleurs assez rarement; elle est avantageusement remplac\u00e9e par lalettre x.",
+        "Machine Translation": "\u9019\u500b\u5b57\u6bcd\u975e\u5e38\u7f55\u898b\uff0c\u6700\u597d\u7528\u5b57\u6bcd x \u4ee3\u66ff\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "67",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "t",
+        "Descriptions": "Le tremplace le \u0111, nous l'avons vu deja; ou,plus exactement, le \u0111 n'existe pas; le t est remplace aussi quelquefois par l'x\u3002",
+        "Machine Translation": "Le tremplace le \u0111\uff0c\u6211\u5011\u5df2\u7d93\u770b\u5230\uff1b\u6216\u8005\u66f4\u6e96\u78ba\u5730\u8aaa\uff0c\u0111\u4e26\u4e0d\u5b58\u5728\uff1bt \u6709\u6642\u4e5f\u88ab x \u4ee3\u66ff\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "68",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "th",
+        "Descriptions": "Le th est moins commun en chinois qu'enannamite; il est souvent remplac\u00e9 par l'x. ll se prononce en aspirant fortement l'h.",
+        "Machine Translation": "\u6f22\u8a9e\u4e2d\u7684 \"Th \"\u6bd4\u5b89\u5357\u8a9e\u4e2d\u7684 \"Th \"\u5c11\uff0c\u901a\u5e38\u7528 \"x \"\u4ee3\u66ff\u3002\u5b83\u7684\u767c\u97f3\u662f\u5c07 h \u5f37\u529b\u5438\u6c23\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "69",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "tr",
+        "Descriptions": "Le tr se remplace avantageusement par le ch. Peutetre qu'une fine oreille annamite prefererait entendre tran, vrai, au lieu de chan; mais nous pensons qu'il vaut mieux supprimer le tr, dont l'emploi est du reste peu frequent.",
+        "Machine Translation": "\u7528 ch \u4ee3\u66ff tr \u66f4\u6709\u512a\u52e2\u3002\u4e5f\u8a31\u5b89\u5357\u4eba\u7684\u8033\u6735\u66f4\u559c\u6b61\u807d tran\u3001vrai\uff0c\u800c\u4e0d\u662f chan\uff1b\u4f46\u6211\u5011\u8a8d\u7232\u6700\u597d\u7701\u7565\u4e0d\u5e38\u7528\u7684 tr\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "70",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "v",
+        "Descriptions": "Le v est une lettre qu'on rencontre peu souvent. ll se prononce comme en fran\u00e7ais.",
+        "Machine Translation": "\u5b57\u6bcd v \u4e0d\u5e38\u51fa\u73fe\uff0c\u767c\u97f3\u8207\u6cd5\u8a9e\u76f8\u540c\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "71",
+        "Original Page": "29",
+        "Presumptions": "\u026c",
+        "Spellings": "x",
+        "Descriptions": "La lettre x, nous l'avons vu d\u00e9j\u00e0, est tr\u00e8s employ\u00e9e. Elle remplace surtout l's et parfois le p, le b, le th, etc.",
+        "Machine Translation": "\u6211\u5011\u5df2\u7d93\u770b\u5230\uff0c\u5b57\u6bcd x \u88ab\u5ee3\u6cdb\u4f7f\u7528\u3002\u5b83\u4e3b\u8981\u4ee3\u66ff s\uff0c\u6709\u6642\u4e5f\u4ee3\u66ff p\u3001b\u3001th \u7b49\u3002",
+        "Language Analogues": "(Eng) th /\u03b8/",
+        "Example Words": ""
+    },
+    {
+        "Index": "72",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "L'x se prononce un peu \u00e0 la fa\u00e7on du th anglais, en pla\u00e7ant la partie ant\u00e9rieure de la langue contre les dents.",
+        "Machine Translation": "x \u7684\u767c\u97f3\u6709\u9ede\u50cf\u82f1\u8a9e\u4e2d\u7684 th\uff0c\u767c\u97f3\u6642\u820c\u982d\u524d\u7aef\u8981\u62b5\u4f4f\u7259\u9f52\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "73",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "REMARQUE.- Dans toutes les explications qui pr\u00e9cedent, il ne faut voir que des regles g\u00e9n\u00e9rales,tres g\u00e9n\u00e9rales. Nous l'avons dit d\u00e9ja, les diff\u00e9rencesde prononciation sont nombreuses meme pour une seule region. ll ne faudra donc pas s'\u00e9tonner des exceptions, fr\u00e9quentes sans doute,qu'on pourra constater.",
+        "Machine Translation": "\u6ce8\u610f--\u5728\u4e0a\u8ff0\u6240\u6709\u89e3\u91cb\u4e2d\uff0c\u53ea\u61c9\u8003\u616e\u4e00\u822c\u7684\u3001\u975e\u5e38\u4e00\u822c\u7684\u898f\u5247\u3002\u6b63\u5982\u6211\u5011\u5df2\u7d93\u8aaa\u904e\u7684\uff0c\u5373\u4f7f\u5728\u540c\u4e00\u5730\u5340\uff0c\u767c\u97f3\u4e5f\u6709\u8a31\u591a\u5dee\u7570\uff0c\u56e0\u6b64\u6211\u5011\u4e0d\u61c9\u5c0d\u4f8b\u5916\u60c5\u6cc1\u611f\u5230\u9a5a\u8a1d\uff0c\u6beb\u7121\u7591\u554f\uff0c\u4f8b\u5916\u60c5\u6cc1\u662f\u7d93\u5e38\u767c\u751f\u7684\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "74",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Cest par la pratique seule qu'on apprend unelangue; le livre ne doit avoir d'autre but que defaciliter l'\u00e9tude. Faire des themes et des versions est encore un bon moyen; mais nous pensons que",
+        "Machine Translation": "\u4e00\u9580\u8a9e\u8a00\u7684\u5b78\u7fd2\u53ea\u80fd\u9760\u5be6\u8e10\uff0c\u66f8\u7684\u552f\u4e00\u76ee\u7684\u61c9\u8a72\u662f\u65b9\u4fbf\u5b78\u7fd2\u3002\u88fd\u4f5c\u4e3b\u984c\u548c\u7248\u672c\u4ecd\u7136\u662f\u4e00\u7a2e\u597d\u65b9\u6cd5\uff1b\u4f46\u6211\u5011\u8a8d\u7232\uff0c\u6c92\u6709\u4ec0\u9ebc",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "75",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "rien ne vaut les exercices pratiques, la conversation tout le long du jour en notant soigneusementles mots nouveaux qui frappent l'oreille.",
+        "Machine Translation": "\u4f46\u6211\u5011\u8a8d\u7232\uff0c\u6c92\u6709\u4ec0\u9ebc\u6bd4\u5be6\u969b\u7df4\u7fd2\u3001\u5168\u5929\u5c0d\u8a71\u3001\u4ed4\u7d30\u8a18\u4e0b\u8033\u908a\u97ff\u8d77\u7684\u65b0\u8a5e\u66f4\u91cd\u8981\u4e86\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "76",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "En s'exercant a parler sans craindre les sourires moqueurs des indigenes, en prenant en meme temps des notes, on arrivera assez rapidement a faire des progres tres sensibles. Les regles grammaticales sont insignifiantes; il suffit donc d'apprendre des mots, beaucoup de mots.",
+        "Machine Translation": "\u901a\u904e\u7df4\u7fd2\u53e3\u8a9e\uff0c\u4e0d\u7528\u64d4\u5fc3\u7576\u5730\u4eba\u5632\u7b11\u7684\u7b11\u5bb9\uff0c\u540c\u6642\u505a\u7b46\u8a18\uff0c\u4f60\u6703\u5f88\u5feb\u53d6\u5f97\u986f\u8457\u7684\u9032\u6b65\u3002\u8a9e\u6cd5\u898f\u5247\u4e26\u4e0d\u91cd\u8981\uff1b\u60a8\u6240\u8981\u505a\u7684\u5c31\u662f\u5b78\u7fd2\u55ae\u8a5e\uff0c\u5927\u91cf\u7684\u55ae\u8a5e\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    },
+    {
+        "Index": "77",
+        "Original Page": "",
+        "Presumptions": "",
+        "Spellings": "",
+        "Descriptions": "Et il sera alors facile a qui connatt deja l'annamite de se rendre compte tres rapidement deschangements de consonnes du cantonais a l'annamite; le t cantonais devient souvent le d annamite; le th, le b, le p, deviennent l'x, le ch, etc.",
+        "Machine Translation": "\u9019\u6a23\uff0c\u4efb\u4f55\u5df2\u7d93\u638c\u63e1\u5b89\u5357\u8a9e\u7684\u4eba\u90fd\u80fd\u5f88\u5feb\u610f\u8b58\u5230\u7cb5\u8a9e\u548c\u5b89\u5357\u8a9e\u7684\u8f14\u97f3\u8b8a\u5316\uff1b\u7cb5\u8a9e\u7684 t \u5f80\u5f80\u8b8a\u6210\u5b89\u5357\u8a9e\u7684 d\uff1bth\u3001b\u3001p \u8b8a\u6210 x\u3001ch\uff0c\u7b49\u7b49\uff0c\u7b49\u7b49\u3002",
+        "Language Analogues": "",
+        "Example Words": ""
+    }
+]
