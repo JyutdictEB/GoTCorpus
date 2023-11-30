@@ -25,31 +25,31 @@ export default defineComponent({
   setup() {
     const columns = [
       {
-        name: 'index',
+        name: 'Index',
         required: true,
         label: 'Index',
         align: 'left',
-        field: row => row.index,
+        field: row => row['Index'],
         format: val => `${val}`,
         sortable: true,
       },
       {
-        name: 'original',
+        name: 'Original Text',
         label: 'Original Text',
         align: 'left',
-        field: 'original',
+        field: 'Original Text',
       },
       {
-        name: 'google-translation',
-        label: 'Google Translation',
+        name: 'Google Trans.',
+        label: 'Google Trans.',
         align: 'left',
-        field: 'google-translation',
+        field: 'Google Trans.',
       },
       {
-        name: 'deepl-translation',
-        label: 'DeepL Translation',
+        name: 'DeepL Trans.',
+        label: 'DeepL Trans.',
         align: 'left',
-        field: 'deepl-translation',
+        field: 'DeepL Trans.',
       }
     ]
 

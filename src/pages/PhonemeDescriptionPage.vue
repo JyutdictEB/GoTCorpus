@@ -58,10 +58,10 @@ export default defineComponent({
         field: 'Descriptions',
       },
       {
-        name: 'Machine Translation',
-        label: 'Machine Translation',
+        name: 'DeepL Trans.',
+        label: 'DeepL Trans.',
         align: 'left',
-        field: 'Machine Translation',
+        field: 'DeepL Trans.',
       },
       {
         name: 'Language Analogues',
