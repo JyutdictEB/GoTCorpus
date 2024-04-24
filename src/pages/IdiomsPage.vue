@@ -1,7 +1,7 @@
 <template>
   <q-page class="">
     <div class="q-pa-md">
-      <q-table class="my-sticky-header-table" flat bordered wrap-cells title="Vocabulary" :rows="rows" :columns="columns"
+      <q-table class="my-sticky-header-table" flat bordered wrap-cells title="Idioms" :rows="rows" :columns="columns"
         row-key="name" :filter="filter" :rows-per-page-options="[5, 10]">
         <template v-slot:top-right>
           <q-input outlined dense debounce="300" v-model="filter" placeholder="Search">
@@ -20,7 +20,7 @@ import { defineComponent, ref } from 'vue';
 import idiomsJsonData from 'assets/idioms.json';
 
 export default defineComponent({
-  name: 'VocabularyPage',
+  name: 'IdiomsPage',
   components: {},
   setup() {
     const columns = [
