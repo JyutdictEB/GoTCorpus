@@ -114,14 +114,15 @@
       </p>
       <blockquote class="text-body1">
         Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. <i>Lagarrue's GoT Cantonese Online Corpus</i>.
-        Version v0.1.0, GitHub, 24 Apr. 2024, <a href="https://github.com/JyutdictEB/GoTCorpus"
+        Version v0.1.0, GitHub, 27 Nov. 2024, <a href="https://github.com/JyutdictEB/GoTCorpus"
           target="_blank">https://github.com/JyutdictEB/GoTCorpus</a>. Accessed [YOUR ACCESS DATE].
       </blockquote>
       <p class="text-body1">
         APA:
       </p>
       <blockquote class="text-body1">
-        Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. (2024, April 24). <i>Lagarrue's GoT Cantonese Online
+        Jyutdict Editorial Board IT Workgroup of Lingnaam Jyutjam. (2024, November 27). <i>Lagarrue's GoT Cantonese
+          Online
           Corpus</i> (Version v0.1.0). GitHub. <a href="https://github.com/JyutdictEB/GoTCorpus"
           target="_blank">https://github.com/JyutdictEB/GoTCorpus</a>
       </blockquote>
