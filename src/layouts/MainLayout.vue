@@ -8,7 +8,7 @@
           Lagarrue's GoT Cantonese Online Corpus
         </q-toolbar-title>
 
-        <div>v0.1.0 Beta</div>
+        <div>v0.1.0</div>
       </q-toolbar>
     </q-header>
 
