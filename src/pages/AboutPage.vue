@@ -141,6 +141,11 @@
       <p class="text-body1">
         Friendly Links:
       <ul>
+        <li>Hamzau Baakwaa (An online Chinese dictionary of a modern variety ​​similar to this database): 
+          <ul>
+            <li><a href="https://hamzau.com" target="_blank">https://hamzau.com</a></li>
+          </ul>
+        </li>
         <li>Jyutdict: <a href="https://jyutdict.org" target="_blank">https://jyutdict.org</a></li>
         <li>Lingnaam Jyutjam Homepage: <a href="https://jyutjam.org" target="_blank">https://jyutjam.org</a></li>
         <li>Jyutping++: <a href="https://jyutjam.org/j++/" target="_blank">https://jyutjam.org/j++</a></li>
