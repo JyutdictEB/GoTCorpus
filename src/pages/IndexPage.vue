@@ -2,9 +2,9 @@
   <div class="q-pa-md">
     <div class="row justify-center">
       <q-btn-toggle v-model="slide" no-caps :options="[
-        { label: 'Cover', value: 'cover' },
-        { label: 'Letter from General Galliéni (1)', value: 'letter_1' },
-        { label: 'Letter from General Galliéni (2)', value: 'letter_2' },
+        { label: $t('indexPage.cover'), value: 'cover' },
+        { label: $t('indexPage.letter1'), value: 'letter_1' },
+        { label: $t('indexPage.letter2'), value: 'letter_2' },
       ]" />
     </div>
     <q-carousel v-model="slide" transition-prev="slide-right" transition-next="slide-left" animated
@@ -12,19 +12,19 @@
       <q-carousel-slide name="cover" class="column no-wrap flex-center">
         <q-img src="~assets/Lagarrues_p12.jpg" style="max-width: 500px" />
         <div class="q-mt-md text-center">
-          Cover page of the book
+          {{ $t('indexPage.coverCaption') }}
         </div>
       </q-carousel-slide>
       <q-carousel-slide name="letter_1" class="column no-wrap flex-center">
         <q-img src="~assets/Lagarrues_p16.jpg" style="max-width: 500px" />
         <div class="q-mt-md text-center">
-          Letter from General Galliéni (1)
+          {{ $t('indexPage.letter1') }}
         </div>
       </q-carousel-slide>
       <q-carousel-slide name="letter_2" class="column no-wrap flex-center">
         <q-img src="~assets/Lagarrues_p17.jpg" style="max-width: 500px" />
         <div class="q-mt-md text-center">
-          Letter from General Galliéni (2)
+          {{ $t('indexPage.letter2') }}
         </div>
       </q-carousel-slide>
     </q-carousel>

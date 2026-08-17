@@ -1,10 +1,10 @@
 <template>
   <q-page class="">
     <div class="q-pa-md">
-      <q-table class="my-sticky-header-table" flat bordered wrap-cells title="Introduction" :rows="rows"
+      <q-table class="my-sticky-header-table" flat bordered wrap-cells :title="$t('pages.introduction.title')" :rows="rows"
         :columns="columns" row-key="name" :filter="filter" :rows-per-page-options="[5, 10]" :loading="loading">
         <template v-slot:top-right>
-          <q-input outlined dense debounce="300" v-model="filter" placeholder="Search">
+          <q-input outlined dense debounce="300" v-model="filter" :placeholder="$t('common.search')">
             <template v-slot:append>
               <q-icon name="search" />
             </template>
@@ -16,17 +16,20 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref, onMounted } from 'vue';
+import { defineComponent, ref, computed, onMounted } from 'vue';
+import { useI18n } from 'vue-i18n';
 
 export default defineComponent({
   name: 'IntroductionPage',
   components: {},
   setup() {
-    const columns = [
+    const { t } = useI18n()
+
+    const columns = computed(() => [
       {
         name: 'Index',
         required: true,
-        label: 'Index',
+        label: t('columns.index'),
         align: 'left',
         field: row => row['Index'],
         format: val => `${val}`,
@@ -34,23 +37,23 @@ export default defineComponent({
       },
       {
         name: 'Original Text',
-        label: 'Original Text',
+        label: t('columns.originalText'),
         align: 'left',
         field: 'Original Text',
       },
       {
         name: 'Google Trans.',
-        label: 'Google Trans.',
+        label: t('columns.googleTrans'),
         align: 'left',
         field: 'Google Trans.',
       },
       {
         name: 'DeepL Trans.',
-        label: 'DeepL Trans.',
+        label: t('columns.deepLTrans'),
         align: 'left',
         field: 'DeepL Trans.',
       }
-    ]
+    ])
 
     const loading = ref(true);
     const rows = ref<unknown[]>([]);
