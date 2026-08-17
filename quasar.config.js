@@ -9,19 +9,11 @@
 // https://v2.quasar.dev/quasar-cli-vite/quasar-config-js
 
 
-const { configure } = require('quasar/wrappers');
+import { defineConfig } from '#q-app/wrappers';
 
 
-module.exports = configure(function (/* ctx */) {
+export default defineConfig((/* ctx */) => {
   return {
-    eslint: {
-      // fix: true,
-      // include: [],
-      // exclude: [],
-      // rawOptions: {},
-      warnings: true,
-      errors: true
-    },
 
     // https://v2.quasar.dev/quasar-cli-vite/prefetch-feature
     // preFetch: true,
@@ -62,6 +54,7 @@ module.exports = configure(function (/* ctx */) {
       // vueDevtools,
       // vueOptionsAPI: false,
 
+      typescript: { strict: true },
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
       // publicPath: '/',
@@ -75,6 +68,13 @@ module.exports = configure(function (/* ctx */) {
 
       // extendViteConf (viteConf) {},
       // viteVuePluginOptions: {},
+
+      extendViteConf (viteConf) {
+        // Quasar does not forward all Vite build options; silence the
+        // legacy JSON data chunk warning (see chunk sizes above).
+        viteConf.build = viteConf.build || {}
+        viteConf.build.chunkSizeWarningLimit = 1100
+      },
 
       
       // vitePlugins: [
@@ -194,16 +194,6 @@ module.exports = configure(function (/* ctx */) {
 
         appId: 'got-corpus'
       }
-    },
-
-    // Full list of options: https://v2.quasar.dev/quasar-cli-vite/developing-browser-extensions/configuring-bex
-    bex: {
-      contentScripts: [
-        'my-content-script'
-      ],
-
-      // extendBexScriptsConf (esbuildConf) {}
-      // extendBexManifestJson (json) {}
     }
   }
 });

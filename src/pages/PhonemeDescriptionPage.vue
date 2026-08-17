@@ -2,7 +2,7 @@
   <q-page class="">
     <div class="q-pa-md">
       <q-table class="my-sticky-header-table" flat bordered wrap-cells title="Phoneme Description" :rows="rows"
-        :columns="columns" row-key="name" :filter="filter" :rows-per-page-options="[5, 10]">
+        :columns="columns" row-key="name" :filter="filter" :rows-per-page-options="[5, 10]" :loading="loading">
         <template v-slot:top-right>
           <q-input outlined dense debounce="300" v-model="filter" placeholder="Search">
             <template v-slot:append>
@@ -16,8 +16,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from 'vue';
-import phonemeDescriptionJsonData from 'assets/phoneme_description.json';
+import { defineComponent, ref, onMounted } from 'vue';
 
 export default defineComponent({
   name: 'PhonemeDescriptionPage',
@@ -77,8 +76,13 @@ export default defineComponent({
       }
     ]
 
-    const rows = phonemeDescriptionJsonData
-    return { filter: ref(''), columns, rows };
+    const loading = ref(true);
+    const rows = ref<unknown[]>([]);
+    onMounted(async () => {
+      rows.value = (await import('assets/phoneme_description.json')).default;
+      loading.value = false;
+    });
+    return { filter: ref(''), columns, rows, loading };
   }
 });
 </script>
