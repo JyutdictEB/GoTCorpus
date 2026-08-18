@@ -119,7 +119,8 @@
       </i18n-t>
       <p class="text-body1">
         {{ $t('about.friendlyLinks') }}
-      <ul>
+      </p>
+      <ul class="text-body1">
         <li>{{ $t('about.links.hamzauBaakwaa') }}
           <ul>
             <li><a href="https://hamzau.com" target="_blank">https://hamzau.com</a></li>
@@ -133,7 +134,6 @@
         <li>{{ $t('about.links.jyutpingInputMethod') }} <a href="https://jyutping.net/"
             target="_blank">https://jyutping.net</a></li>
       </ul>
-      </p>
     </div>
   </q-page>
 </template>
