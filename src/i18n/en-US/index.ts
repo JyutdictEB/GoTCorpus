@@ -67,23 +67,23 @@ export default {
   },
   about: {
     heading: 'About',
-    insightHeading: 'An Insight into the Linguistic Legacy of the Gulf of Tonkin',
-    insightBody:
-      'Linguistic heritage is a tapestry that interweaves the essence of culture, history, and communication across generations and geographies. With a unique digitization initiative, the Lagarrue\'s GoT Cantonese Online Corpus emerges as a testament to this. Nestled at the crossroads of history and modern technology, this digital repository is dedicated to preserving and perpetuating the Cantonese linguistic materials from the Gulf of Tonkin (GoT) region, specifically those dating back to the late 19th century.',
-    inceptionHeading: 'The Inception of Preservation',
-    inceptionBody:
-      'The journey of transcribing and preserving the Cantonese dialect from a time when such efforts were rare makes this corpus extraordinary. At the heart of the corpus is the groundbreaking work from the late Qing materials, particularly an exceptional resource authored by a French military officer. This resource is distinctive as it documents the Cantonese language using the Vietnamese alphabet—a striking distinction from the conventional usage of the Latin alphabet. With its rich compendium of over 2,400 vocabulary items and more than 2,500 unique characters with pronunciation, this corpus serves as a bridge connecting researchers to a long-forgotten dialect of the Cantonese language.',
-    workflowHeading: 'Pre-processing Workflow: A Benchmark in Corpus Digitization',
-    workflowBody:
-      'Constructing a comprehensive pre-processing workflow has been integral to transforming these historical materials into an accessible format. This workflow encompasses organized data curation, advanced optical character recognition (OCR), precise machine translation, and a Unicode rule-based algorithm for Vietnamese alphabet processing. The establishment and continuous improvement of a transcription scheme, known as Jyutping++, further exemplify the meticulous approach toward enhancing linguistic analysis.',
-    lingualHeading: 'Lingual Analysis and Digitization: Gateways to Linguistic Frontiers',
-    lingualBody:
-      'The 27th International Conference on Yue Dialects was a pivotal moment for the project, marking the presentation of a paper that delves into the pre-processing and its significant implications for understanding Cantonese. The insights gained through this analytical process are crucial, revealing historical sound variations and tone mergers that enhance our comprehension of the Cantonese spoken at the Sino-Vietnamese border in the late 19th century.',
-    openAccessHeading: 'Embracing Open Access for an Enlightened Future',
+    sourceMaterialHeading: 'The Source Material',
+    sourceMaterialBody:
+      'This corpus is built on Éléments de Langue Chinoise: Dialecte Cantonais, notation Quốc Ngữ, a textbook published in Hanoi in 1900 by Lagarrue, a French naval officer, for French officers, officials and colonists. The book records the Cantonese spoken in the Gulf of Tonkin (GoT) region in the late Qing period, a variety for which documentation from that era is scarce. Its most unusual feature is that the Cantonese is written in the Vietnamese alphabet (Chữ Quốc ngữ) rather than the Latin alphabet commonly used by Western authors of the time.',
+    contentsHeading: 'What the Corpus Contains',
+    contentsBody:
+      'The textbook contains over 2,400 vocabulary items and some 2,500 unique characters with pronunciation, together with pronunciation and grammar notes, dialogues, pleadings in Classical Chinese read with Cantonese phonetics, a trilingual Cantonese–French–Vietnamese glossary, Cantonese idioms with French translations, and comparisons with the Guangzhou Cantonese of the same period. This website presents the digitized vocabulary, sentences and idioms from the book, searchable online.',
+    digitizationHeading: 'How It Was Digitized',
+    digitizationBody:
+      'The pre-processing workflow combined manual work with automation. The Cantonese text written in the Vietnamese alphabet was organized by hand, since no standard Vietnamese spelling exists for these sounds. The French parts were processed with OCR (Azure AI Vision) and then manually corrected, and the French and Vietnamese annotations were machine-translated in batches and checked by hand. The transcribed text was then converted to Jyutping++ using a Unicode rule-based algorithm that decomposes Vietnamese characters and their tone marks. The full workflow is described in the supplementary study cited below, which was presented at the 27th International Conference on Yue Dialects and published in Buckeye East Asian Linguistics (2024).',
+    findingsHeading: 'Linguistic Findings',
+    findingsBody:
+      'Analysis based on this corpus (Lai et al. 2023, presented at the 25th International Conference on Yue Dialects) reports several phonological features of this border variety: the merger of the rhymes 豪 and 侯, the 陽 rhyme merging with the colloquial reading of the 梗 class, and notable instances of the rising tone 古上聲. Details can be found in the main study cited below.',
+    openAccessHeading: 'Open Access',
     openAccessBody1:
-      'In an era that champions the free exchange of knowledge, the decision to make the corpus widely accessible and eventually open source embodies a commitment to fostering global research collaboration. By providing an online platform with a query function, the corpus democratizes the access to information and invites linguistic enthusiasts and scholars alike to conduct their own explorations into this rich dialect.',
+      'The corpus is freely accessible online (got.jyutdict.org) with a search function, and the underlying database will be open-sourced after further proofreading.',
     openAccessBody2:
-      'This corpus, therefore, not only encapsulates an invaluable section of linguistic history but also signifies a leap toward an inclusive and interconnected scholarly community. With the commitment to open-sourcing the database post further proofreading, the corpus aspires to be a beacon for future linguistic research and an enduring legacy for the digitization of rare linguistic materials.',
+      'Researchers and anyone interested in the historical linguistics of Cantonese are welcome to use the data and cite the studies below.',
     citationHeading: 'Citation',
     citationIntro:
       'Welcome to cite this project! If the cited content is related to the preprocessing and corpus linguistics of this project, please cite the {supplementary}; if it is related to the historical linguistics of this project, please cite the {main}; if it is related to the website code of this project, please cite the {github}.',

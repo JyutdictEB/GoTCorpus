@@ -4,24 +4,24 @@
       {{ $t('about.heading') }}
     </div>
     <div class="q-my-lg q-mx-lg">
-      <h6>{{ $t('about.insightHeading') }}</h6>
+      <h6>{{ $t('about.sourceMaterialHeading') }}</h6>
       <p class="text-body1">
-        {{ $t('about.insightBody') }}
+        {{ $t('about.sourceMaterialBody') }}
       </p>
 
-      <h6>{{ $t('about.inceptionHeading') }}</h6>
+      <h6>{{ $t('about.contentsHeading') }}</h6>
       <p class="text-body1">
-        {{ $t('about.inceptionBody') }}
+        {{ $t('about.contentsBody') }}
       </p>
 
-      <h6>{{ $t('about.workflowHeading') }}</h6>
+      <h6>{{ $t('about.digitizationHeading') }}</h6>
       <p class="text-body1">
-        {{ $t('about.workflowBody') }}
+        {{ $t('about.digitizationBody') }}
       </p>
 
-      <h6>{{ $t('about.lingualHeading') }}</h6>
+      <h6>{{ $t('about.findingsHeading') }}</h6>
       <p class="text-body1">
-        {{ $t('about.lingualBody') }}
+        {{ $t('about.findingsBody') }}
       </p>
 
       <h6>{{ $t('about.openAccessHeading') }}</h6>
