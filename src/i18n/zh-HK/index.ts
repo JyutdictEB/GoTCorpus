@@ -108,6 +108,14 @@ export default {
       jyutping: 'Jyutping：',
       jyutpingInputMethod: 'Jyutping 輸入法：',
     },
+    linkUrls: {
+      hamzauBaakwaa: 'https://hamzau.com',
+      jyutdict: 'https://jyutdict.org',
+      lingnaamJyutjamHomepage: 'https://jyutjam.org/',
+      jyutpingPlusPlus: 'https://jyutjam.org/jpp/',
+      jyutping: 'https://jyutping.org/',
+      jyutpingInputMethod: 'https://jyutping.net/',
+    },
   },
   errorNotFound: {
     message: '糟糕，這裏甚麼都沒有……',

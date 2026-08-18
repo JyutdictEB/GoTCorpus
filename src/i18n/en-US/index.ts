@@ -110,6 +110,14 @@ export default {
       jyutping: 'Jyutping:',
       jyutpingInputMethod: 'Jyutping Input Method:',
     },
+    linkUrls: {
+      hamzauBaakwaa: 'https://hamzau.com',
+      jyutdict: 'https://jyutdict.org',
+      lingnaamJyutjamHomepage: 'https://jyutjam.org/en/',
+      jyutpingPlusPlus: 'https://jyutjam.org/en/jpp/',
+      jyutping: 'https://jyutping.org/en/',
+      jyutpingInputMethod: 'https://jyutping.net/',
+    },
   },
   errorNotFound: {
     message: 'Oops. Nothing here...',

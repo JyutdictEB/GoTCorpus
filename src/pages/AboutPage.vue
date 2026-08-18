@@ -123,16 +123,16 @@
       <ul class="text-body1">
         <li>{{ $t('about.links.hamzauBaakwaa') }}
           <ul>
-            <li><a href="https://hamzau.com" target="_blank">https://hamzau.com</a></li>
+            <li><a :href="$t('about.linkUrls.hamzauBaakwaa')" target="_blank">{{ $t('about.linkUrls.hamzauBaakwaa') }}</a></li>
           </ul>
         </li>
-        <li>{{ $t('about.links.jyutdict') }} <a href="https://jyutdict.org" target="_blank">https://jyutdict.org</a></li>
-        <li>{{ $t('about.links.lingnaamJyutjamHomepage') }} <a href="https://jyutjam.org"
-            target="_blank">https://jyutjam.org</a></li>
-        <li>{{ $t('about.links.jyutpingPlusPlus') }} <a href="https://jyutjam.org/j++/" target="_blank">https://jyutjam.org/j++</a></li>
-        <li>{{ $t('about.links.jyutping') }} <a href="https://jyutping.org" target="_blank">https://jyutping.org</a></li>
-        <li>{{ $t('about.links.jyutpingInputMethod') }} <a href="https://jyutping.net/"
-            target="_blank">https://jyutping.net</a></li>
+        <li>{{ $t('about.links.jyutdict') }} <a :href="$t('about.linkUrls.jyutdict')" target="_blank">{{ $t('about.linkUrls.jyutdict') }}</a></li>
+        <li>{{ $t('about.links.lingnaamJyutjamHomepage') }} <a :href="$t('about.linkUrls.lingnaamJyutjamHomepage')"
+            target="_blank">{{ $t('about.linkUrls.lingnaamJyutjamHomepage') }}</a></li>
+        <li>{{ $t('about.links.jyutpingPlusPlus') }} <a :href="$t('about.linkUrls.jyutpingPlusPlus')" target="_blank">{{ $t('about.linkUrls.jyutpingPlusPlus') }}</a></li>
+        <li>{{ $t('about.links.jyutping') }} <a :href="$t('about.linkUrls.jyutping')" target="_blank">{{ $t('about.linkUrls.jyutping') }}</a></li>
+        <li>{{ $t('about.links.jyutpingInputMethod') }} <a :href="$t('about.linkUrls.jyutpingInputMethod')"
+            target="_blank">{{ $t('about.linkUrls.jyutpingInputMethod') }}</a></li>
       </ul>
     </div>
   </q-page>
