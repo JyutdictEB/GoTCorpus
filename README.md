@@ -79,7 +79,7 @@ details):
 
 - Contact: **jyutjam@tutanota.com**
 - [Hamzau Baakwaa](https://hamzau.com) · [Jyutdict](https://jyutdict.org) ·
-  [Lingnaam Jyutjam](https://jyutjam.org) · [Jyutping++](https://jyutjam.org/j++/)
+  [Lingnaam Jyutjam](https://jyutjam.org/en/) · [Jyutping++](https://jyutjam.org/en/jpp/)
 
 ## License
 
